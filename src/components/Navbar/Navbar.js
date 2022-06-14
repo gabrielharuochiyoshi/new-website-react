@@ -14,7 +14,7 @@ import {
   NavItemBtn,
   NavBtnLink
 } from "./Navbar.elements";
-// import { Container } from '../../globalStyles'
+
 
 const Navbar = () => {
   const [click, setClick] = useState(false);
